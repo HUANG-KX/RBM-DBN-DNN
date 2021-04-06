@@ -1,2 +1,3 @@
 # RBM-DBN-DNN
-RBM,DBN,DNN from scratch
+Project of Deep learning II:
+Write RBM (restricted Boltzman Machine), DBN (Deep Belief Network), DNN (Deep Neuron Network) from scratch
